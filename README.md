@@ -1,6 +1,7 @@
 # Capstone-Resume
 
 ## Project Specifications
+
 1. Create an HTML file named `index.html`.
 2. Use the `<!DOCTYPE html>` declaration at the beginning of the file to indicate that it's an HTML
    document.
@@ -13,3 +14,52 @@
    - **Skills** (list relevant skills or areas of expertise)
    - Awards, certifications, or other achievements (list any relevant awards, certs or other
      accomplishments)
+5. Use appropriate HTML tags to format the content of each section such as `h1` for section headings
+   and `ul` or `ol` for lists.
+6. Use HTML tags to add a **Profile Photo** of yourself.
+7. Use relevant anchor tags to create a multi-page website, listing other aspects of your resume
+   such as **Hobbies** and **Contact** details.
+8. Add a `footer` element with your name and any copyright information or other disclaimers. (HINT:
+   use the  MDN docs for things you don't know how to do.)
+   - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+9. Save the `index.html` file and open it in a web browser to ensure that it displays correctly.
+10. Add your website to your GitHub to start building your portfolio.
+11. Publish your website using GitHub pages and share it here (in the Q&A) with other students.
+12. Comment and make suggestions to other students' projects.
+
+## Example
+
+[Example Resume Project](https://appbrewery.github.io/capstone-1-example)
+
+## Requirements
+
+- in order to keep the project within scope (time, energy, resource), you can **only use HTML** to
+  complete this project. Even if you know CSS and JS (Which we're assuming you don't yet), you are
+  expected to only write the website using HTML.
+- Imagine you are a professional developer working on this project. There will be things you don't
+  know, things you want to do but haven't yet learned how to. As a professional developer, you need
+  to know the limits of your abilities and look up other things in Google, MDN Docs, and the
+  internet.
+
+## FAQs
+
+1. **Can I use these Capstone projects in my job interviews?**
+
+    Yes! That's the point of these capstone projects. Unlike course projects, which have solution
+    code and video walkthroughs, Capstone projects are meant to be entirely your **"Own Work"**.
+    There are over a million students who have enrolled in this web development course wolrdwide. If
+    you add a course project to your portfolio, it's very likely that your client will know it's
+    from this course. The capstone projects on the other hand, have no solution code, no
+    walkthrought, no design specs. It's purely your creation. So it can definitely be counted as
+    your own work and be added to your portfolio.
+
+    When I hire developers I always ask for a portfolio. I consider what they have built by
+    themselves to be far more important than which University they went to or if they have a CS
+    degree. Many of my friends who are CEOs in multi-nationals and startups agree.
+
+2. **What if I don't remember how to do something, even though I watchd all the videos?**
+
+    Watching a video is often not enough to learn a skill. That's why these capstone projects are a
+    great opportunity to identify your weak points. While you're building, you'll find yourself
+    stuck or forgetting how to do things. Great! It's time to review previous lessons or online
+    documentation to fill your knowledge gaps.
